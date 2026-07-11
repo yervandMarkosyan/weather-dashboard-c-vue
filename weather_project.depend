@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1783706765 source:c:\users\yerva\desktop\dead_drop\c\weather_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curl/curl.h>
+	<sys/types.h>
+	"dotenv.h"
+	<microhttpd.h>
+
+1783634999 c:\users\yerva\curl-8.21.0_2-win64-mingw\curl-8.21.0_2-win64-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<sys/param.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"mprintf.h"
+	"typecheck-gcc.h"
+
+1783634999 c:\users\yerva\curl-8.21.0_2-win64-mingw\curl-8.21.0_2-win64-mingw\include\curl\curlver.h
+
+1783634999 c:\users\yerva\curl-8.21.0_2-win64-mingw\curl-8.21.0_2-win64-mingw\include\curl\system.h
+	<ConditionalMacros.h>
+	<inttypes.h>
+	<inttypes.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1783634999 c:\users\yerva\curl-8.21.0_2-win64-mingw\curl-8.21.0_2-win64-mingw\include\curl\easy.h
+
+1783634999 c:\users\yerva\curl-8.21.0_2-win64-mingw\curl-8.21.0_2-win64-mingw\include\curl\multi.h
+	"curl.h"
+
+1783634999 c:\users\yerva\curl-8.21.0_2-win64-mingw\curl-8.21.0_2-win64-mingw\include\curl\urlapi.h
+	"curl.h"
+
+1783634999 c:\users\yerva\curl-8.21.0_2-win64-mingw\curl-8.21.0_2-win64-mingw\include\curl\options.h
+
+1783634999 c:\users\yerva\curl-8.21.0_2-win64-mingw\curl-8.21.0_2-win64-mingw\include\curl\header.h
+
+1783634999 c:\users\yerva\curl-8.21.0_2-win64-mingw\curl-8.21.0_2-win64-mingw\include\curl\websockets.h
+
+1783634999 c:\users\yerva\curl-8.21.0_2-win64-mingw\curl-8.21.0_2-win64-mingw\include\curl\mprintf.h
+	<stdarg.h>
+	<stdio.h>
+	"curl.h"
+
+1783634999 c:\users\yerva\curl-8.21.0_2-win64-mingw\curl-8.21.0_2-win64-mingw\include\curl\typecheck-gcc.h
+
+1783706431 c:\users\yerva\desktop\dead_drop\c\weather_project\dotenv.h
+	<stdbool.h>
+
+1783706392 source:c:\users\yerva\desktop\dead_drop\c\weather_project\dotenv.c
+	"dotenv.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<stdbool.h>
+
